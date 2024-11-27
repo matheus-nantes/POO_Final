@@ -1,0 +1,14 @@
+M:\Ucaribe\POO\ExamenFinal\bin\Debug\net8.0\ExamenFinal.exe
+M:\Ucaribe\POO\ExamenFinal\bin\Debug\net8.0\ExamenFinal.deps.json
+M:\Ucaribe\POO\ExamenFinal\bin\Debug\net8.0\ExamenFinal.runtimeconfig.json
+M:\Ucaribe\POO\ExamenFinal\bin\Debug\net8.0\ExamenFinal.dll
+M:\Ucaribe\POO\ExamenFinal\bin\Debug\net8.0\ExamenFinal.pdb
+M:\Ucaribe\POO\ExamenFinal\obj\Debug\net8.0\ExamenFinal.GeneratedMSBuildEditorConfig.editorconfig
+M:\Ucaribe\POO\ExamenFinal\obj\Debug\net8.0\ExamenFinal.AssemblyInfoInputs.cache
+M:\Ucaribe\POO\ExamenFinal\obj\Debug\net8.0\ExamenFinal.AssemblyInfo.cs
+M:\Ucaribe\POO\ExamenFinal\obj\Debug\net8.0\ExamenFinal.csproj.CoreCompileInputs.cache
+M:\Ucaribe\POO\ExamenFinal\obj\Debug\net8.0\ExamenFinal.dll
+M:\Ucaribe\POO\ExamenFinal\obj\Debug\net8.0\refint\ExamenFinal.dll
+M:\Ucaribe\POO\ExamenFinal\obj\Debug\net8.0\ExamenFinal.pdb
+M:\Ucaribe\POO\ExamenFinal\obj\Debug\net8.0\ExamenFinal.genruntimeconfig.cache
+M:\Ucaribe\POO\ExamenFinal\obj\Debug\net8.0\ref\ExamenFinal.dll
